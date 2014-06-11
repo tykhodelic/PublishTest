@@ -34,5 +34,5 @@ pdf.options(family = "Japan1") # 必要な場合もあります
 biplot (res2.pc)
 ```
 このプロジェクトは以下に公開しています
-https://github.com/ishida-m/PublishTest.git
+https://github.com/tykhodelic/PublishTest.git
 
